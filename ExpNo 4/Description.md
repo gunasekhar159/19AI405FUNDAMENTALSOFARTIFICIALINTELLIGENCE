@@ -41,7 +41,7 @@ Feedback is provided in terms of heuristic function
 <hr>
 
 ## Program:
-
+```
 import random
 import string
 def generate_random_solution(answer):
@@ -81,7 +81,7 @@ SimpleHillClimbing()
 
 <h2>Sample Input and Output</h2>
 <h2>Sample String:</h2> Artificial Intelligence
-
+```
 ## Output:
 
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/fcb96abf-f3ec-4d63-84cc-749fc3d04802)
