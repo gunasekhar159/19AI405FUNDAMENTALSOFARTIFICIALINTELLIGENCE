@@ -47,7 +47,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 4. Find its Successors Or neighbors and Check whether the node is visited or not
 5. If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.
 # Program:
- 
+ ```
 import defaultdict
 from collections import defaultdict
 def dfs(graph,start,visited,path):
@@ -70,7 +70,7 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
-   
+ ```  
 # Sample Input And Output:
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/0a793001-84ff-44d5-b7ea-6f5cc18aefd0)
 
