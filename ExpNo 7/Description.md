@@ -75,7 +75,7 @@ End
 <br>
 
 # Program:
-
+```
 from itertools import permutations
 
 def solve_cryptarithmetic():
@@ -105,7 +105,7 @@ if solution:
     print(f'MONEY = {MONEY}')
 else:
     print("No solution found.")
-
+```
 
 # Output:
 
